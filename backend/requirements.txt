@@ -1,1 +1,2 @@
-fastapi\nuvicorn\n
+fastapi\nuvicorn
+python-dotenv\n
